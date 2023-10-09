@@ -1,0 +1,41 @@
+body {
+    background-image: url(https://th.bing.com/th/id/OIP.Q8hHb7C5nYl-IUy911NADgHaDz?pid=ImgDet&rs=1);
+}
+.primeiro {
+    color:gray;
+    border: 900px;
+    width: 1000px;
+    height: 100px;
+    font-size:40px;
+    background-color:antiquewhite;
+    margin: 0 auto;
+    border-color: black;
+    
+}
+.segundo {
+    color: brown;
+    border: 900px;
+    width:1000px;
+    height: 100px;
+    font-size:45px;
+    background-color:antiquewhite;
+    margin: 0 auto;
+}
+.terceiro {
+    color: black;
+    border: 900px;
+    width:1000px;
+    height: 100px;
+    font-size:44px;
+    background-color:antiquewhite;
+    margin: 0 auto;
+}
+.quarto {
+    margin: 0 auto;
+    color: crimson;
+    border: 900px;
+    width:1000px;
+    height:100px;
+    font-size:44px;
+    background-color:antiquewhite;
+}
